@@ -1,4 +1,4 @@
-# Hi there, I'm [Gul]! 👋
+# Hi there, I'm Gul ! 👋
 
 Welcome to my GitHub profile! I'm a passionate and versatile developer with expertise across multiple domains, including web development, mobile app development, backend systems, and AI. I love building impactful applications and constantly exploring new technologies. Here's a little about me:
 
