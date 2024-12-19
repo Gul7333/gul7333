@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 - **Web**: React, Next.js
 - **Mobile**: React Native, Flutter
 - **Backend**: Node.js, Express
-- **AI/ML**: TensorFlow, PyTorch
+- **AI/ML**: chatbot,
 
 ### Tools & Platforms:
 - Version Control: Git, GitHub
@@ -53,16 +53,22 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 - **Live Demo**: [Link to demo or site](#)
 - **Code**: [GitHub Repository](#)
 
-### 2. **[]**
-- **Description**: Brief description of the project.
-- **Tech Stack**: Tools and technologies used.
-- **Live Demo**: [Link to demo or site](#)
+### 2. **[drug details website]**
+- **Description**: description of thousand of medicines .
+- **Tech Stack**: Tools and technologies used - javascript - html - css - wasm - sqlite.
+- **Live Demo**: [Link to demo or site](https://drug-pedia.vercel.app/)
 - **Code**: [GitHub Repository](#)
 
-### 3. **[Project Name]**
-- **Description**: Brief description of the project.
-- **Tech Stack**: Tools and technologies used.
-- **Live Demo**: [Link to demo or site](#)
+### 3. **[Bubble game in vanila js]**
+- **Description**: i made it to improve my javascript skills and logic building.
+- **Tech Stack**: Tools and technologies used - html - css - javascript-.
+- **Live Demo**: [Link to demo or site](https://gul7333.github.io/Bubble-Game/)
+- **Code**: [GitHub Repository](#)
+
+### 3. **[Analog clock]**
+- **Description**: beautifull analog clock in html, css,.
+- **Tech Stack**: Tools and technologies used - html - css - javascript-.
+- **Live Demo**: [Link to demo or site](https://gul7333.github.io/Analog-Clock/)
 - **Code**: [GitHub Repository](#)
 
 ---
