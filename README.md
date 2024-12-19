@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 - **Portfolio**: [Your Portfolio Website](#)
 - **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](pro.dev.solution.pk@gmail.com)
+- **Email**: [Your Email Address](mailto:pro.dev.solution.pk@gmail.com)
 - **Twitter**: [Your Twitter Profile](#)
 
 ---
