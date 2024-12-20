@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 ### 1. **[Medicine price and info app]**
 - **Description**: about 35k medicine uptodate price and details.
 - **Tech Stack**: Tools and technologies used - React native and sql, android studio- play store.
-- **Live Demo**: [Link to demo or site](#)
-- **Code**: [GitHub Repository](#)
+- **Live Demo**: [Link to demo or site](https://apkpure.com/medicine-price/com.gohrians.medicineprice)
+- **Code**: private
 
 ### 2. **[drug details website]**
 - **Description**: description of thousand of medicines .
