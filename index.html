@@ -19,7 +19,7 @@
             })
             .catch(error => {
                 console.error('Error loading README.md:', error);
-                document.getElementById('content').innerHTML = "Failed to load README.";
+                document.getElementById('content').innerHTML = error;
             });
     </script>
 </body>
