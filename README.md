@@ -94,12 +94,9 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 ---
 
 ## 📫 Let's Connect
-
-- **Portfolio**: [Your Portfolio Website](#)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:pro.dev.solution.pk@gmail.com)
-- **Twitter**: [Your Twitter Profile](#)
-
+- **Github**: [My Github](https://github.com/gul7333)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-gul-zaman-046443322)
+- **Email**: [Email Address](mailto:pro.dev.solution.pk@gmail.com)
 ---
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate on a project. Happy coding! 😄

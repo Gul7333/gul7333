@@ -6,17 +6,17 @@
     <title>README Rendered</title>
     
 </head>
-<body>
+<body style="padding: 14px;">
     <div id="content">Loading...</div>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    <script>
+    
         // Fetch the README.md file
         fetch('./README.md')
             .then(response => response.text())
             .then(text => {
                 // Convert Markdown to HTML using marked.js
-                document.getElementById('content').innerHTML = text;
+                document.getElementById('content').innerHTML = marked.parse(text);
             })
             .catch(error => {
                 console.error('Error loading README.md:', error);
