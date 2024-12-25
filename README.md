@@ -50,31 +50,37 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 ### 1. **Medicine price and info app**
 - **Description**: about 35k medicine uptodate price and details.
 - **Tech Stack**: Tools and technologies used - React native and sql, android studio- play store.
-- **Live Demo**: [Link to demo or site](https://apkpure.com/medicine-price/com.gohrians.medicineprice)
+- **Live Demo**: [Link to App](https://apkpure.com/medicine-price/com.gohrians.medicineprice)
 - **Code**: private
 
 ### 2. **drug details website**
 - **Description**: description of thousand of medicines .
 - **Tech Stack**: Tools and technologies used - javascript - html - css - wasm - sqlite.
-- **Live Demo**: [Link to demo or site](https://drug-pedia.vercel.app/)
+- **Live Demo**: [Link to site](https://drug-pedia.vercel.app/)
 - **Code**: [GitHub Repository](#)
 
 ### 3. **Bubble game in vanila js**
 - **Description**: i made it to improve my javascript skills and logic building.
 - **Tech Stack**: Tools and technologies used - html - css - javascript-.
-- **Live Demo**: [Link to demo or site](https://gul7333.github.io/Bubble-Game/)
+- **Live Demo**: [Link to site](https://gul7333.github.io/Bubble-Game/)
 - **Code**: [GitHub Repository](#)
 
 ### 3. **Analog clock**
 - **Description**: beautifull analog clock in html, css,.
 - **Tech Stack**: Tools and technologies used - html - css - javascript-.
-- **Live Demo**: [Link to demo or site](https://gul7333.github.io/Analog-Clock/)
+- **Live Demo**: [Link to site](https://gul7333.github.io/Analog-Clock/)
 - **Code**: [GitHub Repository](#)
 
   ### 3. **Drug db**
 - **Description**: another drug database.
 - **Tech Stack**: built with power of next js and deployed using github actions.
-- **Live Demo**: [Link to demo or site](https://drugdb.gohrians.com)
+- **Live Demo**: [Link to site](https://drugdb.gohrians.com)
+- **Code**: [GitHub Repository](#)
+
+  ### 3. **Price Checker**
+- **Description**: Fast efficient drug price checker.
+- **Tech Stack**: javascript and sqlite wasm.
+- **Live Demo**: [Link to site](https://pakdrugprice.vercel.app)
 - **Code**: [GitHub Repository](#)
 
 ---
