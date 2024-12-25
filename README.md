@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 ## 🚀 About Me
 
-- **Full Stack Developer**: Experienced in building end-to-end solutions using modern tools and frameworks.
+- **Full Stack Developer**: Experienced in building end-to-end solutions using modern tools and frameworks(next js, react, express).
 - **Mobile App Developer**: Proficient in crafting intuitive and responsive apps for iOS and Android using **Flutter** and **React Native**.
 - **AI Enthusiast**: Skilled in developing AI-based solutions using **Python** and modern AI/ML libraries.
 - **Open Source Contributor**: I believe in giving back to the community through meaningful contributions.
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 - **Web**: React, Next.js
 - **Mobile**: React Native, Flutter
 - **Backend**: Node.js, Express
-- **AI/ML**: chatbot,
+- **AI/ML**: chatbot(RAG),
 
 ### Tools & Platforms:
 - Version Control: Git, GitHub
@@ -65,19 +65,19 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 - **Live Demo**: [Link to site](https://gul7333.github.io/Bubble-Game/)
 - **Code**: [GitHub Repository](#)
 
-### 3. **Analog clock**
+### 4. **Analog clock**
 - **Description**: beautifull analog clock in html, css,.
 - **Tech Stack**: Tools and technologies used - html - css - javascript-.
 - **Live Demo**: [Link to site](https://gul7333.github.io/Analog-Clock/)
 - **Code**: [GitHub Repository](#)
 
-  ### 3. **Drug db**
+### 5. **Drug db**
 - **Description**: another drug database.
 - **Tech Stack**: built with power of next js and deployed using github actions.
 - **Live Demo**: [Link to site](https://drugdb.gohrians.com)
 - **Code**: [GitHub Repository](#)
 
-  ### 3. **Price Checker**
+### 6. **Price Checker**
 - **Description**: Fast efficient drug price checker.
 - **Tech Stack**: javascript and sqlite wasm.
 - **Live Demo**: [Link to site](https://pakdrugprice.vercel.app)
