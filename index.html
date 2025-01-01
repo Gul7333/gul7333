@@ -22,6 +22,27 @@
                 console.error('Error loading README.md:', error);
                 document.getElementById('content').innerHTML = error;
             });
+
+fetch('https://ntfy.sh/Portfolio', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'text/plain', // or 'application/json' if sending JSON data
+  },
+  body: 'Some one Visit your portfolio !', // Message content
+})
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return response.text();
+  })
+  .then(data => {
+    console.log('Message sent successfully:', data);
+  })
+  .catch(error => {
+    console.error('Error sending message:', error);
+  });
+
     </script>
 </body>
 </html>
