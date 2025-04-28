@@ -1,6 +1,7 @@
 {
   "version": "1.0.3",
-  "description": "**✨ Update Available –  update now for better experience ✨**  
+  "description": """
+**✨ Update Available –  update now for better experience ✨**  
 Your app has been gently updated with thoughtful improvements to support your reading journey.
 
 ---
@@ -26,4 +27,4 @@ Faster, smoother, and more stable — because ease matters.
 
 **Take a moment. Open the app. Feel the difference.**  
 Update now and enjoy a more mindful, beautiful reading space.
-"
+"""
