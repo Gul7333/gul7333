@@ -85,12 +85,7 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 ---
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gul7333&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gul7333&layout=compact&theme=radical)
-
+email me pro.dev.solution.pk@gmail.com
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate on a project. Happy coding! 😄
 
