@@ -1,4 +1,4 @@
-# Hi there, I'm Gul ! 👋
+# Hi there, 
 
 Welcome to my GitHub profile! I'm a passionate and versatile developer with expertise across multiple domains, including web development, mobile app development, backend systems, and AI. I love building impactful applications and constantly exploring new technologies. Here's a little about me:
 
@@ -91,13 +91,6 @@ Welcome to my GitHub profile! I'm a passionate and versatile developer with expe
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gul7333&layout=compact&theme=radical)
 
----
-
-## 📫 Let's Connect
-- **Github**: [My Github](https://github.com/gul7333)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-gul-zaman-046443322)
-- **Email**: [Email Address](mailto:pro.dev.solution.pk@gmail.com)
----
 
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and reach out if you'd like to collaborate on a project. Happy coding! 😄
 
